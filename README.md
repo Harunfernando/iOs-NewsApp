@@ -1,2 +1,2 @@
 # iOs-NewsApp
-Aplikasi beret menggunakan Core Data
+Aplikasi News menggunakan Core Data
